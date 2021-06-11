@@ -23,6 +23,6 @@
 <br/><br/>
 
 <div align="center">
-  <img height="200em" alt="Samael's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=samaelgomez&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-  <img height="200em" alt="Samael's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samaelgomez&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+  <img height="180em" alt="Samael's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=samaelgomez&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+  <img height="180em" alt="Samael's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samaelgomez&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </div>
