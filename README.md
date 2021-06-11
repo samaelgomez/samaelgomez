@@ -1,15 +1,15 @@
-<h3>Hi, I'm Samael!</h3>
-<h3>Web application developer</h3>
+<h2>Hi, I'm Samael!</h2>
+<h2>Web application developer</h2>
 
 <hr/>
 
-<h4>Tools:</h4>
+<h3>Tools:</h3>
 <img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC">
 <img align="left" alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255">
 
 <br/>
 
-<h4>Languages:</h4>
+<h3>Languages:</h3>
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5">
 <img align="left" alt="CSS3" src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6">
 <img align="left" alt="PHP" src="https://img.shields.io/badge/-PHP%20OOP-333333?style=flat&logo=php">
