@@ -24,14 +24,14 @@
 ### Deploy
 
 ![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
-![docker-compose](https://img.shields.io/badge/Docker-DB7093?style=for-the-badge&logo=Docker&logoColor=white)
 ![git](https://img.shields.io/badge/Git-F79405?style=for-the-badge&logo=git&logoColor=white)
+
 
 ### Design Tools
 
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
-<br/><br/>
+<br/>
 
 <div align="center">
   <img height="180em" alt="Samael's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=samaelgomez&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
