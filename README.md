@@ -25,6 +25,7 @@
 
 ![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 ![git](https://img.shields.io/badge/Git-F79405?style=for-the-badge&logo=git&logoColor=white)
+![jenkins](https://img.shields.io/badge/Jenkins-3800CD?style=for-the-badge&logo=jenkins&logoColor=white)
 
 
 ### Design Tools
