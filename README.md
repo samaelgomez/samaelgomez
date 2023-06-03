@@ -1,22 +1,35 @@
 <h2>Hi, I'm Samael!</h2>
 <h3>Web application developer</h3>
 
-<h3>Tools:</h3>
-<img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC">
-<img align="left" alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255">
+### Frontend Development
 
-<br/>
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![javascript](https://img.shields.io/badge/Javascript-F79405?style=for-the-badge&logo=javascript&logoColor=white)
 
-<h3>Languages:</h3>
-<img align="left" alt="HTML5" src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5">
-<img align="left" alt="CSS3" src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6">
-<img align="left" alt="PHP" src="https://img.shields.io/badge/-PHP%20OOP-333333?style=flat&logo=php">
-<img align="left" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript">
-<img align="left" alt="Java" src="https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396">
-<img align="left" alt="AngularJS 1.4.9" src="https://img.shields.io/badge/-Angular-333333?style=flat&logo=angularjs">
-<img align="left" alt="MySQL" src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql">
-<img align="left" alt="Git" src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git">
-<img align="left" alt="GitHub" src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github">
+
+### Backend
+
+![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![express](https://img.shields.io/badge/Express-339999?style=for-the-badge&logo=Express&logoColor=white)
+![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
+![postgresql](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+
+
+### Deploy
+
+![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
+![docker-compose](https://img.shields.io/badge/Docker-DB7093?style=for-the-badge&logo=Docker&logoColor=white)
+![git](https://img.shields.io/badge/Git-F79405?style=for-the-badge&logo=git&logoColor=white)
+
+### Design Tools
+
+![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
 <br/><br/>
 
